@@ -1,3 +1,10 @@
 var assert = require('assert'),
   should = require('should'),
-  umpteen = require('../umpteen.js');
+  pinboard = require('../pinboard.js');
+
+  describe('hey first test', function(){
+      it ('should totally fail', function(){
+        myZero = 0;
+        myZero.should.equal(1);
+      })
+    })
