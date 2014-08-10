@@ -7,6 +7,11 @@ to-dos
 * upload json from findings/sniphr?
 * twitter bootstrap for css etc?
 
+housekeeping
+------------------
+* update .gitignore
+* set me up some grunt
+
 somedays
 ------------------
 * add twitterbot to randomly tweet a link
